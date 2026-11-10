@@ -40,7 +40,7 @@ I'm continuously learning, improving my technical skills, and working towards bu
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/alisha-batool-4b390233b/)
 - [GitHub](https://github.com/aleeyshabatool)
-- [ x ](https://x.com/aleeyshabatool)
+- [X (Twitter)](https://x.com/aleeyshabatool)
 
 ---
 🌱 Learning, building, and growing one step at a time!
